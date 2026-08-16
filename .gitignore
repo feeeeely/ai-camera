@@ -1,0 +1,9 @@
+archiv/
+*.jpg
+*.png
+analyse_log.txt
+*.img
+*.img.gz
+__pycache__/
+.DS_Store
+*.env
